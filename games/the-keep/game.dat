@@ -1,0 +1,15 @@
+title = "The Keep"
+description = "A 3D dungeon crawler RPG by Developer and Publisher Cinemax.  An evil Wizard, Watrys, burns down a village and abducts it's children. Use touch screen based melee and magical combat to pass puzzles, traps, and enemies; and rescue the Children."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000124000"
+region = "usa"
+release_date = "2014-10-14"
+
+[[releases]]
+title = "000400000012DA00"
+region = "eur"
+release_date = "2014-10-18"
